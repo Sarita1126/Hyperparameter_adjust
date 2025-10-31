@@ -1,4 +1,4 @@
-## *Trabajo Práctico 4: Ajuste de Hiperparámetros*
+## *Ajuste de Hiperparámetros*
 ***Autora:*** *Sara Peña Alvarez*
 
 #### *Objetivo*
